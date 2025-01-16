@@ -99,7 +99,10 @@ namespace FerreteriaIMax.vista
 
         private void btnpersonal_Click(object sender, EventArgs e)
         {
-
+            Personal controlPersonal = new Personal();
+            controlPersonal.Dock = DockStyle.Fill;
+            panel2.Controls.Clear();
+            panel2.Controls.Add(controlPersonal);
         }
 
         private void menuPrincipal_Load(object sender, EventArgs e)

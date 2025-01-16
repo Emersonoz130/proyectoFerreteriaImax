@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Estudiante\\Desktop\\FerreteriaIMax\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5381C4E1-7A30-445C-840C-A18C49632CB4}|FerreteriaIMax.csproj|C:\\Users\\Estudiante\\Desktop\\FerreteriaIMax\\vista\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5381C4E1-7A30-445C-840C-A18C49632CB4}|FerreteriaIMax.csproj|c:\\users\\estudiante\\desktop\\ferreteriaimax\\vista\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5381C4E1-7A30-445C-840C-A18C49632CB4}|FerreteriaIMax.csproj|solutionrelative:vista\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5381C4E1-7A30-445C-840C-A18C49632CB4}|FerreteriaIMax.csproj|c:\\users\\estudiante\\desktop\\ferreteriaimax\\vista\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5381C4E1-7A30-445C-840C-A18C49632CB4}|FerreteriaIMax.csproj|C:\\Users\\Estudiante\\Desktop\\FerreteriaIMax\\vista\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5381C4E1-7A30-445C-840C-A18C49632CB4}|FerreteriaIMax.csproj|solutionrelative:vista\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5381C4E1-7A30-445C-840C-A18C49632CB4}|FerreteriaIMax.csproj|c:\\users\\estudiante\\desktop\\ferreteriaimax\\vista\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5381C4E1-7A30-445C-840C-A18C49632CB4}|FerreteriaIMax.csproj|solutionrelative:vista\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5381C4E1-7A30-445C-840C-A18C49632CB4}|FerreteriaIMax.csproj|c:\\users\\estudiante\\desktop\\ferreteriaimax\\vista\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5381C4E1-7A30-445C-840C-A18C49632CB4}|FerreteriaIMax.csproj|solutionrelative:vista\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5381C4E1-7A30-445C-840C-A18C49632CB4}|FerreteriaIMax.csproj|C:\\Users\\Estudiante\\Desktop\\FerreteriaIMax\\vista\\menuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +30,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\FerreteriaIMax\\vista\\Personal.cs",
+              "RelativeDocumentMoniker": "vista\\Personal.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\FerreteriaIMax\\vista\\Personal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "vista\\Personal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:27:55.875Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -52,22 +64,10 @@
               "RelativeDocumentMoniker": "vista\\menuPrincipal.cs",
               "ToolTip": "C:\\Users\\Estudiante\\Desktop\\FerreteriaIMax\\vista\\menuPrincipal.cs",
               "RelativeToolTip": "vista\\menuPrincipal.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAIA0wDcAAABmAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAIA4wGcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T20:26:20.685Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "controlForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\FerreteriaIMax\\vista\\controlForm.cs",
-              "RelativeDocumentMoniker": "vista\\controlForm.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\FerreteriaIMax\\vista\\controlForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "vista\\controlForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T16:13:51.547Z",
-              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -92,8 +92,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T20:18:59.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T20:18:59.513Z"
             }
           ]
         }

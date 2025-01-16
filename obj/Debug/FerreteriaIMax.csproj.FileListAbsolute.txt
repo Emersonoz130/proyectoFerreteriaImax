@@ -18,4 +18,4 @@ C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.csproj.Gener
 C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.csproj.CoreCompileInputs.cache
 C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.exe
 C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.pdb
-C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.vista.controlForm.resources
+C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.vista.Personal.resources

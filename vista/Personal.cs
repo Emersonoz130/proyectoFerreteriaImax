@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FerreteriaIMax.vista
 {
-    public partial class controlForm : UserControl
+    public partial class Personal : UserControl
     {
-        public controlForm()
+        public Personal()
         {
             InitializeComponent();
         }
