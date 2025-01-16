@@ -8,3 +8,14 @@ C:\Users\Estudiante\source\repos\FerreteriaIMax\obj\Debug\FerreteriaIMax.csproj.
 C:\Users\Estudiante\source\repos\FerreteriaIMax\obj\Debug\FerreteriaIMax.csproj.CoreCompileInputs.cache
 C:\Users\Estudiante\source\repos\FerreteriaIMax\obj\Debug\FerreteriaIMax.exe
 C:\Users\Estudiante\source\repos\FerreteriaIMax\obj\Debug\FerreteriaIMax.pdb
+C:\Users\Estudiante\Desktop\FerreteriaIMax\bin\Debug\FerreteriaIMax.exe.config
+C:\Users\Estudiante\Desktop\FerreteriaIMax\bin\Debug\FerreteriaIMax.exe
+C:\Users\Estudiante\Desktop\FerreteriaIMax\bin\Debug\FerreteriaIMax.pdb
+C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.vista.menuPrincipal.resources
+C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.exe
+C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.pdb
+C:\Users\Estudiante\Desktop\FerreteriaIMax\obj\Debug\FerreteriaIMax.vista.controlForm.resources
